@@ -1,0 +1,27 @@
+"**Attack, Block, Mana**, or **ABM** for short, is a 1v1 game with a simple goal. Attack your opponent when they use mana.
+
+Each player will start with **1 mana**, and can perform the following actions.
+
+**Attack**: At the cost of **1 mana**, attack your opponent.
+**Block:** Prevents an attack from hitting you.
+**Mana:** Gain 1 mana.
+
+Blocking can be done up to **5 times in a row**, to prevent infinite game stalling.
+
+If one player uses **attack**, and the other uses **mana**, the player who attacks **wins the game**!
+
+However, the game is a little more complicated than that!
+Before each game, players will choose from a selection of **classes**, as shown in <#1074432118035333121>. Each class has a unique ability, be sure to read them!
+
+
+That's the game! There are a few other technicalities to note however.
+
+If both players ever reach **0 mana** at the **end of a turn**, both players are forced to mana, with their consecutive blocks allowed **reset** and certain abilities may activate during this forced turn. This counts as **one turn**.
+
+If a player does not make a move within **1 minute**, their move will be **skipped**, and they will gain a **strike**. Upon gaining a strike, the player will **lose 1 mana**. If they are attacked when skipped, they will **lose the game**.
+
+If a player gains **2 strikes**, they will automatically **forfeit the game**.
+
+If both players gain **2 strikes**, the game will be ruled as a **draw**.
+
+That's everything! Good luck!" (ABM Community Discord, #how-to-play-abm).
